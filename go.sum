@@ -1,0 +1,4 @@
+github.com/gaillard/go-online-linear-regression v0.0.0-20141229020853-7c08c77db3ba h1:e0PAsrPngURj9ici3esfE7DEj+9XWQoOvdhPo8d7xlU=
+github.com/gaillard/go-online-linear-regression v0.0.0-20141229020853-7c08c77db3ba/go.mod h1:60GKirimCgOWQ3Ur44H6CX5O+ZmjVXE9WobOilRbpq0=
+github.com/gaillard/go-queue v0.0.0-20131212161421-6c79a0153984 h1:aFlIfyHzVVGHyHpZyPB58BvaQzAIjGFuIL+/9alExFI=
+github.com/gaillard/go-queue v0.0.0-20131212161421-6c79a0153984/go.mod h1:S5l9TjefdXy9Ikh8kl/6Tnoyii3ADQrdl6cDyvz+SI8=
